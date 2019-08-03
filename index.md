@@ -2,3 +2,5 @@
 EEzTool's blog, see the [Issues](https://github.com/EEzTool/eeztool.github.io/issues).
 
 EEzTool 的博客，见 [Issues](https://github.com/EEzTool/eeztool.github.io/issues).
+
+测试
